@@ -23,7 +23,7 @@ public class TimeAList {
     }
 
     public static void timeAListConstruction() {
-        int[] Nlist = {1000,2000,4000,8000,16000,32000,64000,128000, 256000,512000};
+        int[] Nlist = {1000,2000,4000,8000,16000,32000,64000,128000};
         AList<Integer> Ns = new AList();
         AList<Double> times = new AList();
         AList<Integer> opCounts = new AList();
