@@ -87,7 +87,7 @@ DEBUG_MSG = \
     If you would like to move on to the next command, type 'n'."""
 
 def Usage():
-    print(SHORT_USAGE, file=sys.stderr)
+    print(SHORT_USAGE,file=sys.stderr)
     sys.exit(1)
 
 Mat = None

@@ -18,6 +18,8 @@ import java.util.Arrays;
 import java.util.Formatter;
 import java.util.List;
 
+import static java.nio.file.StandardOpenOption.APPEND;
+
 
 /** Assorted utilities.
  *  @author P. N. Hilfinger
