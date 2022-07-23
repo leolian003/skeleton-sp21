@@ -27,7 +27,7 @@ public class BSTMap<K extends Comparable<K>,V> implements Map61B<K,V>{
         }
     }
 
-    Node root;
+    private Node root;
 
 
     /** Removes all of the mappings from this map. */
